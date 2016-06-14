@@ -1,6 +1,6 @@
 {
   "name": "string-round",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "juliangruber/string-round",
   "description": "Round numbers with arbitrary precision",
