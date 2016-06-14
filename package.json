@@ -1,8 +1,8 @@
 {
-  "name": "string-round",
+  "name": "round-string",
   "version": "1.0.0",
   "license": "MIT",
-  "repository": "juliangruber/string-round",
+  "repository": "juliangruber/round-string",
   "description": "Round numbers with arbitrary precision",
   "scripts": {
     "test": "node index.js"
