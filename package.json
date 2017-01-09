@@ -8,6 +8,6 @@
     "test": "node index.js"
   },
   "devDependencies": {
-    "tap": "^8.0.1"
+    "tap": "^9.0.3"
   }
 }
